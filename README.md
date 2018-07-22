@@ -1,3 +1,11 @@
+<h1>ClothClinic</h1>
+
+To get the app demo,<br>
+download Expo for <a href="http://bit.ly/2bZq5ew">Android</a> or <a href="http://apple.co/2c6HMtp">iOS</a>
+& open this <a href="https://expo.io/--/to-exp/exp%3A%2F%2F192.168.43.84%3A19000">link</a> in the Expo app.
+
+______________
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
